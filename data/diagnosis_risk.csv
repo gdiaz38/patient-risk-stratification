@@ -1,0 +1,11 @@
+diagnosis_description,avg_risk,readmission_rate,count
+COPD,0.4705,0.2624,827
+Acute Myocardial Infarction,0.47,0.2694,798
+Cerebral Infarction,0.4665,0.2474,772
+Pneumonia,0.4636,0.249,787
+Heart Failure,0.459,0.2631,802
+Type 2 Diabetes,0.4568,0.2827,817
+Chronic Kidney Disease,0.4545,0.2983,818
+Hip Fracture,0.445,0.2405,786
+Back Pain,0.4448,0.2152,804
+Aftercare,0.2964,0.2319,789

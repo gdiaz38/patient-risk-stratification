@@ -1,0 +1,7 @@
+county,avg_risk,readmission_rate,patient_count,high_risk_pct
+Los Angeles,0.4654,0.2782,2833,0.5563
+Orange,0.4556,0.2161,1231,0.515
+Riverside,0.4573,0.2557,958,0.5209
+San Bernardino,0.4701,0.2725,987,0.5755
+San Diego,0.3922,0.2296,1372,0.3936
+Ventura,0.3623,0.2698,619,0.2956
