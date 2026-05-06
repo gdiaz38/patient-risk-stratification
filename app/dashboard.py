@@ -272,7 +272,7 @@ show = (filtered[list(display_cols.keys())]
         .reset_index(drop=True))
 
 st.dataframe(
-    show.style.applymap(color_tier, subset=["Risk Tier"]),
+    show.style.map(color_tier, subset=["Risk Tier"]),
     use_container_width=True, height=450
 )
 
